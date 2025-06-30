@@ -1,5 +1,5 @@
 # Enter the computer name with -h suffix
-$computerName = "starchenko-h"
+$computerName = "YOUPC-h"
 # Enter the number of days to get logs for (default is 1)
 $StartTime = (Get-Date).AddDays(-7)
 
